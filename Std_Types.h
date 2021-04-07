@@ -21,7 +21,7 @@
  */
 #define STD_TYPES_SW_MAJOR_VERSION                           (1U)
 #define STD_TYPES_SW_MINOR_VERSION                           (0U)
-#define STD_TYPES_SW_PATCH_VERSION                           (0U)
+#define STD_TYPES_SW_PATCH_VERSION                           (1U)
 
 /*
  * AUTOSAR Version 4.0.3
